@@ -1,0 +1,13 @@
+pillow
+beautifulsoup4
+charset-normalizer
+idna
+numpy
+pandas
+python-dateutil
+pytz
+requests
+six
+soupsieve
+typing-extensions
+tk
